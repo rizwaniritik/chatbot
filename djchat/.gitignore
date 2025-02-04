@@ -1,0 +1,5 @@
+Pipfile
+db.sqlite3
+.env
+.DB_Store
+__pycache__
